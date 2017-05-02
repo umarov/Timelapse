@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timelapse</string>
+    <string name="main_activity_permission_ask_button">Grant Access</string>
+    <string name="main_activity_permission_description">To be able to connect to your camera, this app needs to access location permissions. Click below to grant access</string>
+</resources>
